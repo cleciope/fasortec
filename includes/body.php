@@ -53,7 +53,7 @@
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Mais...</a>
-              <div class="dropdown-menu " aria-labelledby="navbarDropdown" style="background: #707B7C ">
+              <div class="dropdown-menu " aria-labelledby="navbarDropdown" style="background: #616161 ">
                 <a class="dropdown-item" href="/" target="_blank">Fasortec</a>
                 <a class="dropdown-item" href="/" target="_blank">Fasortec</a>
                 <a class="dropdown-item" href="/" target="_blank">Fasortec</a>
@@ -120,22 +120,22 @@
       <br />
       <div class="owl-carousel">
         <div>
-          <img src="/res/site/img/empresa/1.jpg" class="img-fluid px-4" alt="Meta 1" />
+          <img src="/res/site/img/empresa/1.jpg" class="img-fluid px-4" alt="Empresa 1" />
         </div>
         <div>
-          <img src="/res/site/img/empresa/2.jpg" class="img-fluid px-4" alt="Meta 2" />
+          <img src="/res/site/img/empresa/2.jpg" class="img-fluid px-4" alt="Empresa 2" />
         </div>
         <div>
-          <img src="/res/site/img/empresa/3.jpg" class="img-fluid px-4" alt="Meta 3" />
+          <img src="/res/site/img/empresa/3.jpg" class="img-fluid px-4" alt="Empresa 3" />
         </div>
         <div>
-          <img src="/res/site/img/empresa/4.jpg" class="img-fluid px-4" alt="Meta 4" />
+          <img src="/res/site/img/empresa/4.jpg" class="img-fluid px-4" alt="Empresa 4" />
         </div>
         <div>
-          <img src="/res/site/img/empresa/5.jpg" class="img-fluid px-4" alt="Meta 5" />
+          <img src="/res/site/img/empresa/5.jpg" class="img-fluid px-4" alt="Empresa 5" />
         </div>
         <div>
-          <img src="/res/site/img/empresa/6.jpg" class="img-fluid px-4" alt="Meta 6" />
+          <img src="/res/site/img/empresa/6.jpg" class="img-fluid px-4" alt="Empresa 6" />
         </div>
       </div>
     </section>
@@ -206,7 +206,7 @@
         <nav class="d-flex justify-content-center wow fadeIn">
           <ul class="pagination">
             <li class="page-item active">
-              <a class="page-link btn btn-grey" href="/events">Veja nosso atendimento</a>
+              <a class="page-link btn btn-grey" href="/">Veja nosso atendimento</a>
             </li>
           </ul>
         </nav>
@@ -217,10 +217,10 @@
         <div class="row">
           <div class="col-md-6 col-sm-12">
             <div class="centralizar">
-              <a href="/docs"><img src="/res/site/img/svg/street-view.svg" class="img-fluid img-responsive" style="width:150px; height: 160px;" /></a>
+              <a href="/"><img src="/res/site/img/svg/peoples-protection.svg" class="img-fluid img-responsive" style="width:150px; height: 160px;" /></a>
             </div>
             <div class="text-icons">
-              <h3 class="h3 mb-3">Compromisso do melhor atendimento ao nossos clientes</h3>
+              <h3 class="h3 mb-3">Compromisso de melhor atendimento ao nossos clientes</h3>
               <p>
                 Precisando de ajuda?
               </p>
@@ -233,7 +233,7 @@
           </div>
           <div class="col-md-6 col-sm-12">
             <div class="centralizar">
-              <a class="js-scroll-trigger" href="/treinamentos"><img src="/res/site/img/svg/peoples.svg" class="img-fluid img-responsive" style="width:150px; height: 160px;" /></a>
+              <a class="js-scroll-trigger" href="/"><img src="/res/site/img/svg/peoples.svg" class="img-fluid img-responsive" style="width:150px; height: 160px;" /></a>
             </div>
             <div class="text-icons">
               <h3 class="h3 mb-3">Temos equipe de várias áreas para suprir a necessidade da sua empresa</h3>
@@ -244,10 +244,10 @@
                 <hr>
                 Equipe de atendimento helpdesk.
                 <hr>
-                <b>"Coisas incríveis no mundo dos negócios 
-                nunca são feitas por uma única pessoa, e sim por uma equipe."</b>
+                <span style="font-weight: bold;">"Coisas incríveis no mundo dos negócios 
+                nunca são feitas por uma única pessoa, e sim por uma equipe."</span>
 
-              <div align="right">- Steve Jobs.</div>
+              <div align="right" style="font-weight: bold;">- Steve Jobs.</div>
               </p>
             </div>
           </div>
