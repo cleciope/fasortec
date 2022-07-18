@@ -18,11 +18,9 @@
   <link href="/res/site/css/mdbnew.css" rel="stylesheet" />
   <link href="/res/site/css/mdb.css" rel="stylesheet" />
   <link rel="shortcut icon" href="/res/site/img/favicon.ico" type="image/x-icon" />
-
   <!-- Template styles -->
   <style rel="stylesheet">
     /* TEMPLATE STYLES */
-
     main {
       padding-top: 3rem;
       padding-bottom: 2rem;
