@@ -134,9 +134,6 @@
         <div>
           <img src="/res/site/img/empresa/5.jpg" class="img-fluid px-4" alt="Empresa 5" />
         </div>
-        <div>
-          <img src="/res/site/img/empresa/6.jpg" class="img-fluid px-4" alt="Empresa 6" />
-        </div>
       </div>
     </section>
     <hr class="my-5" />
