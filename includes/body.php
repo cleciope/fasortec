@@ -43,7 +43,7 @@
               <a class="nav-link" href="/">Fasortec</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="">Docs</a>
+              <a class="nav-link" href="">Fasortec</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="/form.php">Contato por formulário</a>
