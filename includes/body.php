@@ -242,7 +242,7 @@
                 <hr>
                 Equipe de suporte técnico.
                 <hr>
-                Equipe de atendimento para sua empresa.
+                Equipe de atendimento helpdesk.
                 <hr>
                 <b>"Coisas incríveis no mundo dos negócios 
                 nunca são feitas por uma única pessoa, e sim por uma equipe."</b>
