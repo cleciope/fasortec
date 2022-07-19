@@ -45,3 +45,79 @@
     }
   </style>
 </head>
+<header>
+  <div class="modal fade" id="" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <!-- Change class .modal-sm to change the size of the modal -->
+    <div class="modal-dialog modal-lg" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h2 class="modal-title w-100" id="myModalLabel">
+          </h2>
+          <button type="button" id="btn-" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <img src="" alt="popups" class="img-fluid" />
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Navbar -->
+  <nav class="navbar fixed-top navbar-expand-lg navbar-dark scrolling-navbar" id="scrollNav" style="height: 4rem;">
+    <div class=" container">
+      <!-- Brand -->
+      <a class="navbar-brand" href="/">
+        <img class="logo" src="/res/site/img/logo.png" alt="Fasortec" />
+        <strong>Fasortec</strong>
+      </a>
+      <!-- Collapse -->
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <!-- Links -->
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <!-- Left -->
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item ">
+            <a class="nav-link" href="/">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/">Fasortec</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/">Fasortec</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="">Fasortec</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#form">Contato por formulário</a>
+          </li>
+          <li class="nav-item ">
+            <a class="nav-link js-scroll-trigger" href="#form">Contato</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Mais...</a>
+            <div class="dropdown-menu " aria-labelledby="navbarDropdown" style="background: #616161 ">
+              <a class="dropdown-item" href="/" target="_blank">Fasortec</a>
+              <a class="dropdown-item" href="/" target="_blank">Fasortec</a>
+              <a class="dropdown-item" href="/" target="_blank">Fasortec</a>
+              <a class="dropdown-item" href="/" target="_blank">Fasortec</a>
+              <a class="dropdown-item" href="/" target="_blank">Fasortec</a>
+              <a class="dropdown-item" href="/">Fasortec</a>
+            </div>
+          </li>
+        </ul>
+
+        <!-- Right -->
+        <ul class="navbar-nav nav-flex-icons">
+          <li class="nav-item">
+            <a type="email" href=mailto:comercial@fasortec.com.br class="nav-link border border-light rounded" target="_blank">
+              <i class="fa fa-comments mr-2"></i>Solicitar orçamento</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <shr style="margin-top: 5rem; width:100%;">
