@@ -185,6 +185,10 @@
               </a>
             </div>
             <div>
+              <a><img src="/res/site/img/clientes/fraturas.png" class="img-fluid px-4" alt="Cliente 2" style="width:500px; height: 100px; margin-top: 2rem;" />
+              </a>
+            </div>
+            <div>
               <a><img src="/res/site/img/clientes/cemof2.png" class="img-fluid px-4" alt="Cliente 2" style="width:500px; height: 50px; margin-top: 4rem;" />
               </a>
             </div>
