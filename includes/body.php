@@ -61,9 +61,6 @@
       <div>
         <img src="/res/site/img/empresa/5.jpg" class="img-fluid px-4" alt="Empresa 5" />
       </div>
-      <div>
-        <img src="/res/site/img/empresa/6.jpg" class="img-fluid px-4" alt="Empresa 5" />
-      </div>
     </div>
   </section>
   <hr class="my-5" />
@@ -250,51 +247,53 @@
           <div class="form-row">
             <div class="form-group col-md-6">
               <div>
-                <h5 style="text-align: center">ENTRE EM CONTATO HOJE MESMO</h5>
+                <h4 style="text-align: center">ENTRE EM CONTATO HOJE MESMO</h4>
               </div>
               <div>
-                <h2 style="text-align: center">Preencha o formulário para mais informações</h2>
+                <h5 style="text-align: center">Preencha o formulário para mais informações</h5>
               </div>
               <br>
-              <div>
-                <form role="form" action="https://formsubmit.co/2f2808dd7a6caa9decd52cc325343677" method="post">
-                  <div class="form-row">
-                    <div class="form-group col-md-12">
-                      <label for="name"><b>Nome</b> </label>
-                      <input type="text" class="form-control" id="name" name="name" placeholder="Digite seu nome completo" required>
+              <div class="card">
+                  <div class="card-body">
+                    <form role="form" action="https://formsubmit.co/2f2808dd7a6caa9decd52cc325343677" method="post">
+                    <div class="form-row">
+                      <div class="form-group col-md-12">
+                        <label for="name"><b>Nome</b> </label>
+                        <input type="text" class="form-control" id="name" name="name" placeholder="Digite seu nome completo" required>
+                      </div>
+                      <div class="form-group col-md-6">
+                      </div>
                     </div>
-                    <div class="form-group col-md-6">
+                    <div class="form-row">
+                      <div class="form-group col-md-12">
+                        <label for="mail"><b>E-mail para contato:</b></label>
+                        <input type="email" class="form-control" id="mail" name="mail" placeholder="Digite o e-mail" required>
+                      </div>
+                      <div class="form-group col-md-12">
+                        <!-- <label id="Assunto" for="Assunto"><b>Motivo do contato: </b></label>
+                      <select type="text" id="" name="" class="form-control" require>
+                        <option disabled selected>Escolha o motivo do contato
+                        <option value="informação">Informação</option>
+                        <option value="informação">Sugestão</option>
+                        <option value="informação">Elogio</option>
+                        <option value="informação">Reclamação</option>
+                      </select> -->
+                      </div>
                     </div>
-                  </div>
-                  <div class="form-row">
-                    <div class="form-group col-md-12">
-                      <label for="mail"><b>E-mail para contato:</b></label>
-                      <input type="email" class="form-control" id="mail" name="mail" placeholder="Digite o e-mail" required>
+                    <div class="form-group">
+                      <label for="message"><b>Assunto:</b> </label>
+                      <textarea id="message" name="message" class="form-control" placeholder="Assunto" rows="5" required></textarea>
                     </div>
-                    <div class="form-group col-md-12">
-                      <!-- <label id="Assunto" for="Assunto"><b>Motivo do contato: </b></label>
-                    <select type="text" id="" name="" class="form-control" require>
-                      <option disabled selected>Escolha o motivo do contato
-                      <option value="informação">Informação</option>
-                      <option value="informação">Sugestão</option>
-                      <option value="informação">Elogio</option>
-                      <option value="informação">Reclamação</option>
-                    </select> -->
+                    <!-- /.col -->
+                    <div class="form-group">
+                      <input type="hidden" name="_next" value="http://localhost/formsucess.php">
+                      <input type="hidden" name="_captcha" value="false">
+                      <button type="submit" class="btn btn-grey btn-block">Enviar</button>
+                      <!-- <input type="reset" class="btn btn-grey btn-block" value="Limpar campos" /> -->
                     </div>
-                  </div>
-                  <div class="form-group">
-                    <label for="message"><b>Assunto:</b> </label>
-                    <textarea id="message" name="message" class="form-control" placeholder="Assunto" rows="5" required></textarea>
-                  </div>
-                  <!-- /.col -->
-                  <div class="form-group">
-                    <input type="hidden" name="_next" value="http://localhost/formsucess.php">
-                    <input type="hidden" name="_captcha" value="false">
-                    <button type="submit" class="btn btn-grey btn-block">Enviar</button>
-                    <!-- <input type="reset" class="btn btn-grey btn-block" value="Limpar campos" /> -->
-                  </div>
-                  <!-- /.col -->
-                </form>
+                    <!-- /.col -->
+                  </form>
+                </div>
               </div>
             </div>
             <div class="form-group col-md-6" style="display: flex;

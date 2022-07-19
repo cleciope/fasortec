@@ -62,11 +62,7 @@
         </h5>
         <p>A Fasortecnologia é uma empresa Pernambucana voltada para a solução
           em tecnologia da informação.</p>
-
-
-
       </div>
-
     </div>
 
   </div>
@@ -85,7 +81,6 @@
     </ul>
   </div>
   <!--/.Call to action-->
-
   <!--Copyright-->
   <div class="footer-copyright">
     <div class="container-fluid">
@@ -96,9 +91,7 @@
     </div>
   </div>
   <!--/.Copyright-->
-
 </footer>
-
 <!-- SCRIPTS -->
 <!-- JQuery -->
 <script type="text/javascript" src="/res/site/js/jquery-3.2.1.min.js"></script>

@@ -67,10 +67,7 @@
   <nav class="navbar fixed-top navbar-expand-lg navbar-dark scrolling-navbar" id="scrollNav" style="height: 4rem;">
     <div class=" container">
       <!-- Brand -->
-      <a class="navbar-brand" href="/">
-        <img class="logo" src="/res/site/img/logo.png" alt="Fasortec" />
-        <strong>Fasortec</strong>
-      </a>
+      
       <!-- Collapse -->
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -78,21 +75,19 @@
       <!-- Links -->
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <!-- Left -->
+        <a class="navbar-brand" href="/">
+        <img class="logo" src="/res/site/img/logo.png" alt="Fasortec" />
+        <strong>Fasortec</strong>
+      </a>
         <ul class="navbar-nav mr-auto">
           <li class="nav-item ">
             <a class="nav-link" href="/">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/">Fasortec</a>
+            <a class="nav-link" href="">Soluções</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/">Fasortec</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="">Fasortec</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#form">Contato por formulário</a>
+            <a class="nav-link" href="#form">Planos</a>
           </li>
           <li class="nav-item ">
             <a class="nav-link js-scroll-trigger" href="#form">Contato</a>
@@ -114,7 +109,7 @@
         <ul class="navbar-nav nav-flex-icons">
           <li class="nav-item">
             <a type="email" href=mailto:comercial@fasortec.com.br class="nav-link border border-light rounded" target="_blank">
-              <i class="fa fa-comments mr-2"></i>Solicitar orçamento</a>
+              <i class="fa fa-comments mr-2"></i>Solicite seu orçamento</a>
           </li>
         </ul>
       </div>
