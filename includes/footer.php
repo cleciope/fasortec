@@ -8,7 +8,7 @@
   <div class="container my-5">
     <div class="row mt-4">
       <!--First column-->
-      <div class="col-lg-3 col-md-6 ">
+      <div class="col-lg-7 col-md-1 ml-auto">
         <h5 class="title mb-3">
           Localização
         </h5>
