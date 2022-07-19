@@ -242,7 +242,6 @@
           </div>
           <!--Grid row-->
         </section>
-        
         <section id="form">
         <hr class="my-5" />
         <br>
