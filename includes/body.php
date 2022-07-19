@@ -36,11 +36,11 @@
       </h1>
       <p style="text-align: center">
         A Fasortec é uma empresa Pernambucana voltada para a solução
-        em tecnologia da informação. A mais de 10 anos no mercado,
+        em tecnologia da informação. A mais de 20 anos no mercado,
         atendemos a todos os tipos de empresas, de todos os tamanhos,
         em todos os segmentos: Comércio, Indústrias, Serviços e Hospitais
         no estado de Pernambuco.
-        Oferecems consultoria no setor de tecnologia da informação de sua
+        Oferecemos consultoria no setor de tecnologia da informação de sua
         empresa, além de realizarmos a instalação e o suporte de servidores Windows ou Linux, Banco de Dados.
       </p>
     </div>
@@ -234,7 +234,7 @@
                 <p style="text-align: justify;">
                   Firewalls, Antivirus, Controles de Acessos, IDS, IPS, Monitoramento, etc...
                   Disponha de flexibilidade na utilização de rede local, internet com dispositivos
-                  e softwares de seguramça.
+                  e softwares de segurança.
                 </p>
               </div>
             </div>
