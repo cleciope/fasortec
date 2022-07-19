@@ -134,6 +134,9 @@
         <div>
           <img src="/res/site/img/empresa/5.jpg" class="img-fluid px-4" alt="Empresa 5" />
         </div>
+        <div>
+          <img src="/res/site/img/empresa/6.jpg" class="img-fluid px-4" alt="Empresa 5" />
+        </div>
       </div>
     </section>
     <hr class="my-5" />
@@ -221,11 +224,11 @@
               <p>
                 Precisando de ajuda?
               </p>
-                <!--Call to action-->
-                <div class="call-to-action">
-                    <a target="_blank" href=mailto:comercial@fasortec.com.br class="btn btn-grey" rel="nofollow"><i class="fa fa-comments mr-2"></i>Clique aqui, Iremos te ajudar</a>
+              <!--Call to action-->
+              <div class="call-to-action">
+                <a target="_blank" href=mailto:comercial@fasortec.com.br class="btn btn-grey" rel="nofollow"><i class="fa fa-comments mr-2"></i>Clique aqui, Iremos te ajudar</a>
               </div>
-                <!--/.Call to action-->
+              <!--/.Call to action-->
             </div>
           </div>
           <div class="col-md-6 col-sm-12">
@@ -241,8 +244,8 @@
                 <hr>
                 Equipe de atendimento helpdesk.
                 <hr>
-                <span style="font-weight: bold;">"Coisas incríveis no mundo dos negócios 
-                nunca são feitas por uma única pessoa, e sim por uma equipe."</span>
+                <span style="font-weight: bold;">"Coisas incríveis no mundo dos negócios
+                  nunca são feitas por uma única pessoa, e sim por uma equipe."</span>
 
               <div align="right" style="font-weight: bold;">- Steve Jobs.</div>
               </p>
@@ -261,11 +264,11 @@
                 <br />
               </p>
               <!-- Basic dropdown -->
-               <!--Call to action-->
+              <!--Call to action-->
               <div class="call-to-action">
-                    <a target="_blank" href=mailto:comercial@fasortec.com.br class="btn btn-grey" rel="nofollow"><i class="fa fa-comments mr-2"></i>Para obter mais informações clique aqui</a>
+                <a target="_blank" href=mailto:comercial@fasortec.com.br class="btn btn-grey" rel="nofollow"><i class="fa fa-comments mr-2"></i>Para obter mais informações clique aqui</a>
               </div>
-                <!--/.Call to action-->
+              <!--/.Call to action-->
             </div>
           </div>
           <div class="col-md-6 col-sm-12">
