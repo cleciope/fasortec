@@ -242,15 +242,18 @@
           </div>
           <!--Grid row-->
         </section>
-        <hr class="my-5" />
+        
         <section id="form">
+        <hr class="my-5" />
+        <br>
+        <br>
           <div class="form-row">
             <div class="form-group col-md-6">
               <div>
-                <h4 style="text-align: center">ENTRE EM CONTATO HOJE MESMO</h4>
+                <h4 style="text-align: center">ENTRE EM CONTATO HOJE MESMO!</h4>
               </div>
               <div>
-                <h5 style="text-align: center">Preencha o formulário para mais informações</h5>
+                <h5 style="text-align: center">Preencha o formulário para mais informações.</h5>
               </div>
               <br>
               <div class="card">
