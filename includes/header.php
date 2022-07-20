@@ -78,7 +78,7 @@
         <a class="navbar-brand" href="/">
         <img class="logo" src="/res/site/img/logo.png" alt="Fasortec" />
         <strong>Fasortec</strong>
-      </a>
+        </a>
         <ul class="navbar-nav mr-auto">
           <li class="nav-item ">
             <a class="nav-link" href="/">Home</a>
@@ -94,7 +94,7 @@
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Mais...</a>
-            <div class="dropdown-menu " aria-labelledby="navbarDropdown" style="background: #616161 ">
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown" style="background: #616161 ">
               <a class="dropdown-item" href="/" target="_blank">Fasortec</a>
               <a class="dropdown-item" href="/" target="_blank">Fasortec</a>
               <a class="dropdown-item" href="/" target="_blank">Fasortec</a>
