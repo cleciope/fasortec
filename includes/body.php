@@ -257,7 +257,7 @@
               <br>
               <div class="card">
                   <div class="card-body">
-                    <form role="form" action="https://formsubmit.co/2f2808dd7a6caa9decd52cc325343677" method="post">
+                    <form role="form" action="formsucess.php" method="post">
                     <div class="form-row">
                       <div class="form-group col-md-12">
                         <label for="name"><b>Nome</b> </label>
@@ -305,15 +305,4 @@
         </section>
       </div>
     </main>
-    <script type="text/javascript">
-      var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-        (function(){
-          var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-            s1.async=true;
-            s1.src='https://embed.tawk.to/62d6eb24b0d10b6f3e7d2615/1g8bod1uc';
-            s1.charset='UTF-8';
-            s1.setAttribute('crossorigin','*');
-            s0.parentNode.insertBefore(s1,s0);
-          })();
-    </script>
 </body>
