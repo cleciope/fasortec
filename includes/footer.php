@@ -115,5 +115,4 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.js"></script>
 <script type="text/javascript" src="/public/js/js.js"></script>
 </body>
-
 </html>
