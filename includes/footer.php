@@ -87,33 +87,33 @@
       Copyright &copy; 2022 - <script type="text/javascript">
         document.write(new Date().getFullYear());
       </script>
-      <a target="_blank" href="//www.cleciolins.com"> Fasortecnologia </a>
+      <a target="_blank" href=""> Fasortecnologia </a>
     </div>
   </div>
   <!--/.Copyright-->
 </footer>
 <!-- SCRIPTS -->
 <!-- JQuery -->
-<script type="text/javascript" src="/res/site/js/jquery-3.2.1.min.js"></script>
-<script type="text/javascript" src="/res/site/js/jquery-ui.js"></script>
+<script type="text/javascript" src="/public/js/jquery-3.2.1.min.js"></script>
+<script type="text/javascript" src="/public/js/jquery-ui.js"></script>
 <!-- Bootstrap tooltips -->
-<script type="text/javascript" src="/res/site/js/popper.min.js"></script>
+<script type="text/javascript" src="/public/js/popper.min.js"></script>
 <!-- Bootstrap core JavaScript -->
-<script type="text/javascript" src="/res/site/js/bootstrap.js"></script>
+<script type="text/javascript" src="/public/js/bootstrap.js"></script>
 <!-- MDB core JavaScript -->
-<script type="text/javascript" src="/res/site/js/mdb.min.js"></script>
+<script type="text/javascript" src="/public/js/mdb.min.js"></script>
 <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.js"></script>
-<script type="text/javascript" src="/res/site/js/scrolltotop.js"></script>
-<script type="text/javascript" src="/res/site/OwlCarousel2-2.3.4/dist/owl.carousel.js"></script>
-<script type="text/javascript" src="/res/site/datatables/dataTables.bootstrap4.min.js"></script>
+<script type="text/javascript" src="/public/js/scrolltotop.js"></script>
+<script type="text/javascript" src="/public/OwlCarousel2-2.3.4/dist/owl.carousel.js"></script>
+<script type="text/javascript" src="/public/datatables/dataTables.bootstrap4.min.js"></script>
 <!-- Bootstrap 4 -->
-<script type="text/javascript" src="/res/site/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script type="text/javascript" src="/public/bootstrap/js/bootstrap.bundle.min.js"></script>
 <!-- Hover3d-->
-<script type="text/javascript" src="/res/site/js/hover3d.js"></script>
+<script type="text/javascript" src="/public/js/hover3d.js"></script>
 <!-- Initializations -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.js" type="text/javascript"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.js"></script>
-<script type="text/javascript" src="/res/site/js/js.js"></script>
+<script type="text/javascript" src="/public/js/js.js"></script>
 </body>
 
 </html>

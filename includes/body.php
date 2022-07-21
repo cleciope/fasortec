@@ -6,15 +6,15 @@
     <div class="carousel-inner">
       <div class="carousel-item active">
         <a href="/">
-          <img class="d-block w-100 img-fluid" src="/res/site/img/banner.jpg" alt="banner" />
+          <img class="d-block w-100 img-fluid" src="/public/img/banner.jpg" alt="banner" />
         </a>
       </div>
       <div class="carousel-item">
-        <a href="/"><img class="d-block w-100 img-fluid" src="/res/site/img/banner2.jpg" alt="banner" /></a>
+        <a href="/"><img class="d-block w-100 img-fluid" src="/public/img/banner2.jpg" alt="banner" /></a>
       </div>
       <div class="carousel-item">
         <a href="/">
-          <img class="d-block w-100 img-fluid" src="/res/site/img/banner3.jpg" alt="banner" />
+          <img class="d-block w-100 img-fluid" src="/public/img/banner3.jpg" alt="banner" />
         </a>
       </div>
     </div>
@@ -47,19 +47,19 @@
     <br />
     <div class="owl-carousel">
       <div>
-        <img src="/res/site/img/empresa/1.jpg" class="img-fluid px-4" alt="Empresa 1" />
+        <img src="/public/img/empresa/1.jpg" class="img-fluid px-4" alt="Empresa 1" />
       </div>
       <div>
-        <img src="/res/site/img/empresa/2.jpg" class="img-fluid px-4" alt="Empresa 2" />
+        <img src="/public/img/empresa/2.jpg" class="img-fluid px-4" alt="Empresa 2" />
       </div>
       <div>
-        <img src="/res/site/img/empresa/3.jpg" class="img-fluid px-4" alt="Empresa 3" />
+        <img src="/public/img/empresa/3.jpg" class="img-fluid px-4" alt="Empresa 3" />
       </div>
       <div>
-        <img src="/res/site/img/empresa/4.jpg" class="img-fluid px-4" alt="Empresa 4" />
+        <img src="/public/img/empresa/4.jpg" class="img-fluid px-4" alt="Empresa 4" />
       </div>
       <div>
-        <img src="/res/site/img/empresa/5.jpg" class="img-fluid px-4" alt="Empresa 5" />
+        <img src="/public/img/empresa/5.jpg" class="img-fluid px-4" alt="Empresa 5" />
       </div>
     </div>
   </section>
@@ -105,25 +105,25 @@
             <!--Carousel Wrapper-->
             <div class="owl-carousel">
               <div>
-                <a href="http://jaymedafonte.com.br"><img src="/res/site/img/clientes/jayme.png" class="img-fluid px-4" alt="Cliente 1" style="width:2000px; height: 150px; object-fit: cover" />
+                <a href="http://jaymedafonte.com.br"><img src="/public/img/clientes/jayme.png" class="img-fluid px-4" alt="Cliente 1" style="width:2000px; height: 150px; object-fit: cover" />
                 </a>
               </div>
               <div>
-                <a><img src="/res/site/img/clientes/fraturas.png" class="img-fluid px-4" alt="Cliente 2" style="width:500px; height: 100px; margin-top: 2rem;" />
+                <a><img src="/public/img/clientes/fraturas.png" class="img-fluid px-4" alt="Cliente 2" style="width:500px; height: 100px; margin-top: 2rem;" />
                 </a>
               </div>
               <div>
-                <a><img src="/res/site/img/clientes/cemof2.png" class="img-fluid px-4" alt="Cliente 2" style="width:500px; height: 50px; margin-top: 4rem;" />
+                <a><img src="/public/img/clientes/cemof2.png" class="img-fluid px-4" alt="Cliente 2" style="width:500px; height: 50px; margin-top: 4rem;" />
                 </a>
               </div>
               <div>
-                <img src="/res/site/img/clientes/gl.png" class="img-fluid px-4" alt="Cliente 3" style="width:500px; height: 100px; margin-top: 2rem;" />
+                <img src="/public/img/clientes/gl.png" class="img-fluid px-4" alt="Cliente 3" style="width:500px; height: 100px; margin-top: 2rem;" />
               </div>
               <div>
-                <img src="/res/site/img/clientes/irrf.png" class="img-fluid px-4" alt="Cliente 4" style="width:500px; height: 100px; margin-top: 2rem;" />
+                <img src="/public/img/clientes/irrf.png" class="img-fluid px-4" alt="Cliente 4" style="width:500px; height: 100px; margin-top: 2rem;" />
               </div>
               <div>
-                <a href="http://sosmaorecife.com.br"><img href="http://sosmaorecife.com.br" src="/res/site/img/clientes/sosmao-logo.png" class="img-fluid px-4" alt="Cliente 5" style="width:300px; height: 150px; margin-top: 1rem;" />
+                <a href="http://sosmaorecife.com.br"><img href="http://sosmaorecife.com.br" src="/public/img/clientes/sosmao-logo.png" class="img-fluid px-4" alt="Cliente 5" style="width:300px; height: 150px; margin-top: 1rem;" />
                 </a>
               </div>
             </div>
@@ -145,7 +145,7 @@
           <div class="row">
             <div class="col-md-6 col-sm-12">
               <div class="centralizar">
-                <a href="/"><img src="/res/site/img/svg/peoples-protection.svg" class="img-fluid img-responsive" style="width:150px; height: 160px;" /></a>
+                <a href="/"><img src="/public/img/svg/peoples-protection.svg" class="img-fluid img-responsive" style="width:150px; height: 160px;" /></a>
               </div>
               <div class="text-icons">
                 <h3 class="h3 mb-3">Compromisso de melhor atendimento ao nossos clientes</h3>
@@ -161,7 +161,7 @@
             </div>
             <div class="col-md-6 col-sm-12">
               <div class="centralizar">
-                <a class="js-scroll-trigger" href="/"><img src="/res/site/img/svg/peoples.svg" class="img-fluid img-responsive" style="width:150px; height: 160px;" /></a>
+                <a class="js-scroll-trigger" href="/"><img src="/public/img/svg/peoples.svg" class="img-fluid img-responsive" style="width:150px; height: 160px;" /></a>
               </div>
               <div class="text-icons">
                 <h3 class="h3 mb-3">Temos equipe de várias áreas para suprir a necessidade da sua empresa</h3>
@@ -183,7 +183,7 @@
           <div class="row mt-5">
             <div class="col-md-6 col-sm-12 mb-2">
               <div class="centralizar">
-                <a href="" target="_blank"><img src="/res/site/img/svg/envelope.svg" class="img-fluid img-responsive" /></a>
+                <a href="" target="_blank"><img src="/public/img/svg/envelope.svg" class="img-fluid img-responsive" /></a>
               </div>
               <div class="text-icons">
                 <h3 class="h3 mb-3">Encontrou o que procurava?</h3>
@@ -201,7 +201,7 @@
             </div>
             <div class="col-md-6 col-sm-12">
               <div class="centralizar">
-                <a href="/"><img src="/res/site/img/logo.png" class="img-fluid img-responsive" /></a>
+                <a href="/"><img src="/public/img/logo.png" class="img-fluid img-responsive" /></a>
               </div>
               <div class="text-icons">
                 <h3 class="h3 mb-3">Nossa empresa</h3>
@@ -221,7 +221,7 @@
             <div class="col-md-6 mb-4">
               <div class="project">
                 <div class="project__card">
-                  <img src="/res/site/img/banner7.jpg" class="img-fluid z-depth-1-half" alt="" />
+                  <img src="/public/img/banner7.jpg" class="img-fluid z-depth-1-half" alt="" />
                 </div>
               </div>
             </div>
@@ -300,7 +300,7 @@
             </div>
             <div class="form-group col-md-6" style="display: flex;
             justify-content: center; width:500px; height: 450px; margin-top: 4rem;">
-              <img src=" /res/site/img/atendente.png"></img>
+              <img src=" /public/img/atendente.png"></img>
             </div>
         </section>
       </div>
