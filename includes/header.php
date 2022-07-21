@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
@@ -73,7 +72,7 @@
         <span class="navbar-toggler-icon"></span>
       </button>
       <!-- Links -->
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <div class="collapse navbar-collapse" id="">
         <!-- Left -->
         <a class="navbar-brand" href="/">
         <img class="logo" src="/res/site/img/logo.png" alt="Fasortec" />
@@ -104,7 +103,6 @@
             </div>
           </li>
         </ul>
-
         <!-- Right -->
         <ul class="navbar-nav nav-flex-icons">
           <li class="nav-item">
@@ -115,4 +113,4 @@
       </div>
     </div>
   </nav>
-  <shr style="margin-top: 5rem; width:100%;">
+  <hr style="margin-top: 5rem; width:100%;">

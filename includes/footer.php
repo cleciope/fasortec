@@ -95,6 +95,7 @@
 <!-- SCRIPTS -->
 <!-- JQuery -->
 <script type="text/javascript" src="/res/site/js/jquery-3.2.1.min.js"></script>
+<script type="text/javascript" src="/res/site/js/jquery-ui.js"></script>
 <!-- Bootstrap tooltips -->
 <script type="text/javascript" src="/res/site/js/popper.min.js"></script>
 <!-- Bootstrap core JavaScript -->

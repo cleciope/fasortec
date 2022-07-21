@@ -24,7 +24,6 @@ $(document).ready(function() {
   });
 
   $(".owl-carousel").owlCarousel({
-
     items: 2,
     loop: true,
     margin: 10,
@@ -33,7 +32,7 @@ $(document).ready(function() {
     autoplayHoverPause: true
 
   });
-
+/*
   $(".project").hover3d({
     selector: ".project__card"
   });
@@ -61,9 +60,9 @@ $(document).ready(function() {
   $("#btn-2").click(function() {
     $('#2').modal("hide");
     $('#top').removeAttr("style");
-  });
+  }); */
 
-});
+}); 
 
 
 

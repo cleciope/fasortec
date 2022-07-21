@@ -107,3 +107,15 @@ body,
 .scroll-to-top i {
   font-weight: 800;
 }
+
+/*Menu dropdown*/
+
+
+.dropdown {
+  float: left;
+  
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: rgba(139, 139, 139, 0.062);
+}
