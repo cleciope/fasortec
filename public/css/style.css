@@ -5,7 +5,9 @@ body,
   height: 100%;
 }
 
+/*Responsive banner "Carousel" */
 /* Half Page Carousel itself*/
+/*
 .carousel {
   height: 50%;
 }
@@ -16,13 +18,15 @@ body,
 .carousel .carousel-inner .active {
   height: 100%;
 }
-
+*/
 /* Adjustment for mobile devices */
+/*
 @media (max-width: 776px) {
   .carousel {
     height: 100%;
   }
 }
+*/
 
 /* Navbar animation */
 .navbar {
@@ -118,4 +122,9 @@ body,
 
 .navbar a:hover, .dropdown:hover .dropbtn {
   background-color: rgba(139, 139, 139, 0.062);
+}
+
+.my-6 {
+  margin-top: 5rem; 
+  width:100%;
 }

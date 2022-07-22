@@ -1,6 +1,5 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-  <section id="head">
+<!DOCTYPE html >
+<html lang="pt-br" id="head"> 
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
@@ -32,12 +31,10 @@
         background: #707B7C !important;
       }
     }
-
     .main-img img,
     .imgs img {
       width: 100%;
     }
-
     .imgs {
       display: grid;
       grid-template-columns: repeat(4, 1fr);
@@ -67,7 +64,6 @@
   <nav class="navbar fixed-top navbar-expand-lg navbar-dark scrolling-navbar" id="scrollNav" style="height: 4rem;">
     <div class=" container">
       <!-- Brand -->
-      
       <!-- Collapse -->
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -81,26 +77,26 @@
         </a>
         <ul class="navbar-nav mr-auto">
           <li class="nav-item ">
-            <a class="nav-link js-scroll-trigger" target="_blank" href="#head">Home</a>
+            <a class="nav-link js-scroll-trigger" href="#head">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger"target="_blank" href="/">Soluções</a>
+            <a class="nav-link js-scroll-trigger" href="/">Soluções</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" target="_blank" href="#form">Planos</a>
+            <a class="nav-link js-scroll-trigger" href="#form">Planos</a>
           </li>
           <li class="nav-item ">
-            <a class="nav-link  js-scroll-trigger" target="_blank" href="#form">Contato</a>
+            <a class="nav-link  js-scroll-trigger" href="#form">Contato</a>
           </li>
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" target="_blank" href="#" id="navbarDropdown" role="button" data-toggle="dropdown">Mais...</a>
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown">Mais...</a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown" style="background: #616161 ">
-              <a class="dropdown-item" target="_blank" href="/" target="_blank">Fasortec</a>
-              <a class="dropdown-item" target="_blank" href="/" target="_blank">Fasortec</a>
-              <a class="dropdown-item" target="_blank" href="/" target="_blank">Fasortec</a>
-              <a class="dropdown-item" target="_blank" href="/" target="_blank">Fasortec</a>
-              <a class="dropdown-item" target="_blank" href="/" target="_blank">Fasortec</a>
-              <a class="dropdown-item" target="_blank" href="/">Fasortec</a>
+              <a class="dropdown-item" href="/" target="_blank">Fasortec</a>
+              <a class="dropdown-item" href="/" target="_blank">Fasortec</a>
+              <a class="dropdown-item" href="/" target="_blank">Fasortec</a>
+              <a class="dropdown-item" href="/" target="_blank">Fasortec</a>
+              <a class="dropdown-item" href="/" target="_blank">Fasortec</a>
+              <a class="dropdown-item" href="/">Fasortec</a>
             </div>
           </li>
         </ul>
@@ -114,5 +110,4 @@
       </div>
     </div>
   </nav>
-  <hr style="margin-top: 5rem; width:100%;">
-  </section>
+  <hr class="my-6">

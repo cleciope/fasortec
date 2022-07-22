@@ -1,8 +1,7 @@
 <body id="top">
-
   <!-- Navbar -->
   <!--Carousel Wrapper-->
-  <div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-ride="carousel">
+  <div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-ride="carousel"> 
     <div class="carousel-inner">
       <div class="carousel-item active">
         <a href="/">
@@ -10,7 +9,8 @@
         </a>
       </div>
       <div class="carousel-item">
-        <a href="/"><img class="d-block w-100 img-fluid" src="/public/img/banner2.jpg" alt="banner" /></a>
+        <a href="/">
+          <img class="d-block w-100 img-fluid" src="/public/img/banner2.jpg" alt="banner" /></a>
       </div>
       <div class="carousel-item">
         <a href="/">
@@ -174,7 +174,6 @@
                   <hr>
                   <span style="font-weight: bold;">"Coisas incríveis no mundo dos negócios
                     nunca são feitas por uma única pessoa, e sim por uma equipe."</span>
-
                 <div align="right" style="font-weight: bold;">- Steve Jobs.</div>
                 </p>
               </div>
