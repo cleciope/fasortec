@@ -1,12 +1,7 @@
          <div class="text-icons">
            <h3 class="h3 mb-3">Temos equipe de várias áreas para suprir a necessidade da sua empresa</h3>
            <p>
-
-
-        
              <hr>
-
-
 <?php
 /* Recebemos os parâmetro no começo do script  */
 $name = ( isset($_POST['name']) ) ? $_POST['name'] : null;
