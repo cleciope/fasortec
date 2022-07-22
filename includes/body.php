@@ -148,7 +148,7 @@
                 <a href="/"><img src="/public/img/svg/peoples-protection.svg" class="img-fluid img-responsive" style="width:150px; height: 160px;" /></a>
               </div>
               <div class="text-icons">
-                <h3 class="h3 mb-3">Compromisso de melhor atendimento ao nossos clientes</h3>
+                <p class="h3 mb-3">Compromisso de melhor atendimento ao nossos clientes</p>
                 <p>
                   Precisando de ajuda?
                 </p>
@@ -164,7 +164,7 @@
                 <a class="js-scroll-trigger" href="/"><img src="/public/img/svg/peoples.svg" class="img-fluid img-responsive" style="width:150px; height: 160px;" /></a>
               </div>
               <div class="text-icons">
-                <h3 class="h3 mb-3">Temos equipe de várias áreas para suprir a necessidade da sua empresa</h3>
+                <p class="h3 mb-3">Temos equipe de várias áreas para suprir a necessidade da sua empresa</p>
                 <p>
                   Temos equipe de desenvolvimento.
                   <hr>
@@ -185,7 +185,7 @@
                 <a href="" target="_blank"><img src="/public/img/svg/lupa.svg" class="img-fluid img-responsive" style="width:150px; height: 160px;"  /></a>
               </div>
               <div class="text-icons">
-                <h3 class="h3 mb-3">Encontrou o que procurava?</h3>
+                <p class="h3 mb-3">Encontrou o que procurava?</p>
                 <p>
                   Entre em contato hoje mesmo!
                   <br />
@@ -200,10 +200,10 @@
             </div>
             <div class="col-md-6 col-sm-12">
               <div class="centralizar">
-                <a href="/"><img src="/public/img/logo.png" class="img-fluid img-responsive" /></a>
+                <a href="/"><img src="/public/img/logo.png" class="img-fluid img-responsive" style="width:250px; height: 160px;"/></a>
               </div>
               <div class="text-icons">
-                <h3 class="h3 mb-3">Nossa empresa</h3>
+                <p class="h3 mb-3">Nossa empresa</p>
                 <p>
                   Temos a responsabilidade de asegurar as informações de sua empresa<br />
                 </p>
@@ -229,7 +229,7 @@
             <div class="col-md-6 mb-4 ">
               <div class="info">
                 <!-- Main heading -->
-                <h2 class="h2 mb-3">Segurança e Sistemas</h2>
+                <p class="h2 mb-3">Segurança e sistemas</p>
                 <p style="text-align: justify;">
                   Firewalls, Antivirus, Controles de Acessos, IDS, IPS, Monitoramento, etc...
                   Disponha de flexibilidade na utilização de rede local, internet com dispositivos
