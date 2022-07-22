@@ -182,7 +182,7 @@
           <div class="row mt-5">
             <div class="col-md-6 col-sm-12 mb-2">
               <div class="centralizar">
-                <a href="" target="_blank"><img src="/public/img/svg/envelope.svg" class="img-fluid img-responsive" /></a>
+                <a href="" target="_blank"><img src="/public/img/svg/lupa.svg" class="img-fluid img-responsive" style="width:150px; height: 160px;"  /></a>
               </div>
               <div class="text-icons">
                 <h3 class="h3 mb-3">Encontrou o que procurava?</h3>
