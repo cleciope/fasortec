@@ -72,7 +72,7 @@
       </a>
       <!-- Brand -->
       <!-- Collapse -->
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="true" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <!-- Links -->
@@ -94,7 +94,7 @@
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown">Mais...</a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown" style="background: #616161 ">
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
               <a class="dropdown-item" href="/" target="_blank">Fasortec</a>
               <a class="dropdown-item" href="/" target="_blank">Fasortec</a>
               <a class="dropdown-item" href="/" target="_blank">Fasortec</a>

@@ -1,7 +1,7 @@
 <body id="top">
   <!-- Navbar -->
   <!--Carousel Wrapper-->
-  <div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-ride="carousel"> 
+  <div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-ride="carousel">
     <div class="carousel-inner">
       <div class="carousel-item active">
         <a href="/">
@@ -105,7 +105,7 @@
             <!--Carousel Wrapper-->
             <div class="owl-carousel">
               <div>
-                <a href="http://jaymedafonte.com.br"><img src="/public/img/clientes/jayme.png" class="img-fluid px-4" alt="Cliente 1" style="width:2000px; height: 150px; object-fit: cover" />
+                <a href="http://jaymedafonte.com.br"><img src="/public/img/clientes/jayme.png" class="img-fluid px-4" alt="Cliente 1" style="width:2000px; height: 150px; margin-top: 2rem;" />
                 </a>
               </div>
               <div>
@@ -182,7 +182,7 @@
           <div class="row mt-5">
             <div class="col-md-6 col-sm-12 mb-2">
               <div class="centralizar">
-                <a href="" target="_blank"><img src="/public/img/svg/lupa.svg" class="img-fluid img-responsive" style="width:150px; height: 160px;"  /></a>
+                <a href="" target="_blank"><img src="/public/img/svg/lupa.svg" class="img-fluid img-responsive" style="width:150px; height: 160px;" /></a>
               </div>
               <div class="text-icons">
                 <p class="h3 mb-3">Encontrou o que procurava?</p>
@@ -200,7 +200,7 @@
             </div>
             <div class="col-md-6 col-sm-12">
               <div class="centralizar">
-                <a href="/"><img src="/public/img/logo.png" class="img-fluid img-responsive" style="width:250px; height: 160px;"/></a>
+                <a href="/"><img src="/public/img/logo.png" class="img-fluid img-responsive" style="width:250px; height: 160px;" /></a>
               </div>
               <div class="text-icons">
                 <p class="h3 mb-3">Nossa empresa</p>
@@ -242,9 +242,9 @@
           <!--Grid row-->
         </section>
         <section id="form">
-        <hr class="my-5" />
-        <br>
-        <br>
+          <hr class="my-5" />
+          <br>
+          <br>
           <div class="form-row">
             <div class="form-group col-md-6">
               <div>
@@ -255,8 +255,8 @@
               </div>
               <br>
               <div class="card">
-                  <div class="card-body">
-                    <form role="form" action="formsucess.php" method="post">
+                <div class="card-body">
+                  <form role="form" action="formsucess.php" method="post">
                     <div class="form-row">
                       <div class="form-group col-md-12">
                         <label for="name"><b>Nome</b> </label>
