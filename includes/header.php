@@ -1,5 +1,6 @@
-<!DOCTYPE html >
-<html lang="pt-br" id="head"> 
+<!DOCTYPE html>
+<html lang="pt-br" id="head">
+
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
@@ -31,10 +32,12 @@
         background: #707B7C !important;
       }
     }
+
     .main-img img,
     .imgs img {
       width: 100%;
     }
+
     .imgs {
       display: grid;
       grid-template-columns: repeat(4, 1fr);
@@ -62,19 +65,20 @@
   </div>
   <!-- Navbar -->
   <nav class="navbar fixed-top navbar-expand-lg navbar-dark scrolling-navbar" id="scrollNav" style="height: 4rem;">
-    <div class=" container">
+    <div class=" container" id="scrollNav">
+      <a class="navbar-brand" href="/">
+        <img class="logo" src="/public/img/logo.png" alt="Fasortec" />
+        <strong>Fasortec</strong>
+      </a>
       <!-- Brand -->
       <!-- Collapse -->
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <!-- Links -->
-      <div class="collapse navbar-collapse" id="">
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <!-- Left -->
-        <a class="navbar-brand" href="/">
-        <img class="logo" src="/public/img/logo.png" alt="Fasortec" />
-        <strong>Fasortec</strong>
-        </a>
+
         <ul class="navbar-nav mr-auto">
           <li class="nav-item ">
             <a class="nav-link js-scroll-trigger" href="#head">Home</a>
