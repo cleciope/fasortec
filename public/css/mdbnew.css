@@ -1511,7 +1511,7 @@
       -ms-flex: 1;
       flex: 1;
       height: 2px;
-      }
+      background: #c6c6c6; }
     .divider-new:before {
       margin: 0 0.5rem 0 0; }
     .divider-new:after {
@@ -1519,7 +1519,7 @@
   
   .blockquote {
     padding: 0.5rem 1rem;
-   }
+    border-left: .25rem solid #eceeef; }
     .blockquote .bq-title {
       margin-bottom: 0;
       font-size: 1.5rem;
@@ -6023,7 +6023,7 @@
         font-weight: 300;
         color: #fff !important; }
         .navbar .dropdown-menu a:hover {
-          background: #a1a8a6;
+          background: #994a56;
           color: #fff;
         }
     .navbar.navbar-light .navbar-nav .nav-item .nav-link.disbled {

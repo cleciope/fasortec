@@ -5,28 +5,26 @@ body,
   height: 100%;
 }
 
-/*Responsive banner "Carousel" */
 /* Half Page Carousel itself*/
-/*
 .carousel {
   height: 50%;
 }
+
 .carousel .carousel-inner {
   height: 100%;
 }
+
 .carousel .carousel-inner .carousel-item,
 .carousel .carousel-inner .active {
   height: 100%;
 }
-*/
+
 /* Adjustment for mobile devices */
-/*
 @media (max-width: 776px) {
   .carousel {
     height: 100%;
   }
 }
-*/
 
 /* Navbar animation */
 .navbar {
@@ -34,7 +32,7 @@ body,
 }
 
 .top-nav-collapse {
-  background-color: #707B7C ;
+  background-color: #707B7C;
 }
 
 /* Adding color to the Navbar on mobile */
@@ -44,7 +42,7 @@ body,
   }
 
   .top-nav-collapse {
-    background-color: #707B7C ;
+    background-color: #707B7C;
   }
 }
 
@@ -59,7 +57,7 @@ body,
 
 /* Footer color for sake of consistency with Navbar */
 .page-footer {
-  background-color: #707B7C ;
+  background-color: #707B7C;
 }
 
 .info {
@@ -95,7 +93,7 @@ body,
   height: 50px;
   text-align: center;
   color: white;
-  background: #707B7C ;
+  background: #707B7C;
   line-height: 45px;
 }
 
@@ -105,26 +103,32 @@ body,
 }
 
 .scroll-to-top:hover {
-  background: #707B7C ;
+  background: #707B7C;
 }
 
 .scroll-to-top i {
   font-weight: 800;
 }
 
-/*Menu dropdown*/
+/*Edited*/
 
+.navbar-brand>img {
+  width: 5rem;
+  height: 50px;
 
-.dropdown {
-  float: left;
-  
 }
 
-.navbar a:hover, .dropdown:hover .dropbtn {
-  background-color: rgba(139, 139, 139, 0.062);
+.dropdown-toggle>div {
+  background: #707B7C;
+}
+
+.dropdown-menu {
+  background: #707B7C;
+  border-radius: 3px;
 }
 
 .my-6 {
-  margin-top: 5rem; 
-  width:100%;
+  margin-top: 6rem !important;
 }
+
+/*End Edition*/

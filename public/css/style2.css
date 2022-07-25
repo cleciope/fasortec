@@ -3,13 +3,7 @@
   /* fallback for old browsers */
   background: -webkit-linear-gradient(to right, #3a6073, #3a7bd5);
   /* Chrome 10-25, Safari 5.1-6 */
-  background: -webkit-gradient(
-    linear,
-    left top,
-    right top,
-    from(#3a6073),
-    to(#3a7bd5)
-  );
+  background: -webkit-gradient(linear, left top, right top, from(#3a6073), to(#3a7bd5));
   background: -webkit-linear-gradient(left, #3a6073, #3a7bd5);
   background: -o-linear-gradient(left, #3a6073, #3a7bd5);
   background: linear-gradient(to right, #3a6073, #3a7bd5);
@@ -29,7 +23,8 @@
   height: 50px;
   text-align: center;
   color: white;
-  background: #707B7C ;
+  background: #707B7C;
+  ;
   line-height: 45px;
 }
 
@@ -39,7 +34,8 @@
 }
 
 .scroll-to-top:hover {
-  background: #707B7C ;
+  background: #707B7C;
+  ;
 }
 
 .scroll-to-top i {

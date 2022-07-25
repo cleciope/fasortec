@@ -19,7 +19,7 @@
   <!-- Footer CSS -->
   <link href="/public/css/mdbnew.css" rel="stylesheet" />
   <!-- DataTables -->
-  <link rel="stylesheet" href="/public/datatables/dataTables.bootstrap4.min.css" />
+  <link rel="stylesheet" href="/public/js/DataTables-1.10.16/js/dataTables.bootstrap4.min.css" />
   <!-- Ownl Carousel-->
   <link rel="stylesheet" href="/public/OwlCarousel2-2.3.4/dist/assets/owl.carousel.css" />
   <!-- Link do favicon -->
@@ -64,7 +64,7 @@
     </div>
   </div>
   <!-- Navbar -->
-  <nav class="navbar fixed-top navbar-expand-lg navbar-dark scrolling-navbar" id="scrollNav" style="height: 4rem;">
+  <nav class="navbar fixed-top navbar-expand-lg navbar-dark scrolling-navbar" id="scrollNav">
     <div class=" container" id="scrollNav">
       <a class="navbar-brand" href="/">
         <img class="logo" src="/public/img/logo.png" alt="Fasortec" />
