@@ -16,7 +16,7 @@
               ?>
               <h3>
                <?php echo $texto ?></h3><h4 style="font-weight: bold;"><?php echo $name.'.'; ?></h4>
-               <h4>Sua mensagem foi enviada com êxito!</h4>
+               <h4>Sua mensagem foi enviada com êxito!</h4><img src="/public/img/svg/ok.svg" class="img-fluid img-responsive" style="width:150px; height: 160px;" />
                   <h4 style="text-align: center">Responderemos o mais breve possível para o e-mail informado abaixo:</h4><h5 h4 style="font-weight: bold;"><?php echo $email;?></h5>
               </div>
             </div>
