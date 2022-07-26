@@ -287,7 +287,7 @@
                     </div>
                     <!-- /.col -->
                     <div class="form-group">
-                      <input type="hidden" name="_next" value="http://localhost/formsucess.php">
+                      <input type="hidden" name="_next" value="/formsucess.php">
                       <input type="hidden" name="_captcha" value="false">
                       <button type="submit" class="btn btn-grey btn-block">Enviar</button>
                       <!-- <input type="reset" class="btn btn-grey btn-block" value="Limpar campos" /> -->
